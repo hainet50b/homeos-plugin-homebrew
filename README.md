@@ -1,5 +1,7 @@
 # homeos-plugin-homebrew
 
+![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)
+
 A [homeos](https://github.com/hainet50b/homeos) plugin for [Homebrew](https://brew.sh/), the package manager for macOS (and Linux).
 
 ## Usage
